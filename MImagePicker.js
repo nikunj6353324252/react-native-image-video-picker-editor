@@ -17,7 +17,7 @@ import {
 
 
 import ViewTransformer from "react-native-easy-view-transformer"
-import CameraRoll from "@react-native-community/cameraroll";
+import CameraRoll from "@react-native-camera-roll/camera-roll";
 import Icon from 'react-native-vector-icons/Entypo';
 import MaskedView from '@react-native-community/masked-view';
 import Video from 'react-native-video';
